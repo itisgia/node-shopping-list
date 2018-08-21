@@ -1,0 +1,10 @@
+[{"id":1,"product":"Tofu","price":"$8.95","inStock":false},
+{"id":2,"product":"Flour","price":"$4.99","inStock":false},
+{"id":3,"product":"Pork","price":"$6.29","inStock":false},
+{"id":4,"product":"Mudslide","price":"$6.49","inStock":true},
+{"id":5,"product":"Bacardi Raspberry","price":"$1.02","inStock":true},
+{"id":6,"product":"Pineapple","price":"$2.52","inStock":true},
+{"id":7,"product":"Chinese Chicken","price":"$1.68","inStock":false},
+{"id":8,"product":"Shrimp","price":"$4.19","inStock":true},
+{"id":9,"product":"Lentils","price":"$7.71","inStock":true},
+{"id":10,"product":"Mango","price":"$2.00","inStock":true}]

@@ -1,0 +1,19 @@
+{
+  "name": "shippingserver",
+  "version": "0.0.1",
+  "description": "making shopping cart",
+  "main": "index.js",
+  "scripts": {
+    "dev:server": "nodemon -L index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itisgia/shoppingServer.git"
+  },
+  "author": "Jiah Kwon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itisgia/shoppingServer/issues"
+  },
+  "homepage": "https://github.com/itisgia/shoppingServer#readme"
+}
